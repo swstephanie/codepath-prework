@@ -1,4 +1,4 @@
-## NAME_OF_YOUR_APP_HERE
+## Code Path Prework Project - Hello App
 
 ### App Description
 `TODO://` Add app description
@@ -8,7 +8,7 @@
 
 <img src="https://i.imgur.com/cziORYy.gif" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete.
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
